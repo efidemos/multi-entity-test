@@ -5,7 +5,7 @@ metadata:
   title: Test App 2
   description: Application 2 in a monorepo
   annotations:
-    github.com/project-slug: efidemos/multi-entity-test/app-2
+    github.com/project-slug: efidemos/multi-entity-test
   tags:
     - demo
 spec:
