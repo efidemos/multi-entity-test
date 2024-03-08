@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-app-c-2
+  title: Test App C2
+  description: Application C2 in a monorepo
+  annotations:
+    github.com/project-slug: efidemos/multi-entity-test
+  tags:
+    - demo
+  links:
+    - url: http://example.com
+      title: Example
+    - url: http://test.com
+      title: Test
+spec:
+  type: service
+  lifecycle: production
+  owner: group:default/team-charlie
