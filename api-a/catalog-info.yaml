@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  description: NA
+  name: API A
+  tags:
+    - rest-api
+  annotations:
+    openapi/ref-basepath: ./
+spec:
+  definition:
+    $openapi: https://github.com/efidemos/multi-entity-test/blob/main/api-a/swagger.json
+  lifecycle: production
+  owner: the-api
+  type: openapi
