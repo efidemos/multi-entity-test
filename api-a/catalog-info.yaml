@@ -11,7 +11,7 @@ metadata:
     github.com/project-slug: efidemos/multi-entity-test
 spec:
   definition:
-    $openapi: https://github.com/efidemos/multi-entity-test/blob/main/api-a/swagger.json
+    $text: https://github.com/efidemos/multi-entity-test/blob/main/api-a/swagger.json
   lifecycle: production
   owner: the-api
   type: openapi
