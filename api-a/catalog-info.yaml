@@ -1,8 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
+  name: api-a
+  title: API A
   description: NA
-  name: API A
   tags:
     - rest-api
   annotations:
