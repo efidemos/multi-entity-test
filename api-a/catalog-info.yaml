@@ -15,6 +15,6 @@ spec:
   lifecycle: production
   owner: the-api
   type: openapi
-  partOf:
+  system:
     - Veeva
     - Companion

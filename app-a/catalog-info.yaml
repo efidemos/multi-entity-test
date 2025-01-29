@@ -17,3 +17,4 @@ spec:
   type: service
   lifecycle: production
   owner: group:default/team-charlie
+  system: default/Veeva
