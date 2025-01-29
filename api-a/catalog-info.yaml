@@ -16,6 +16,3 @@ spec:
   owner: the-api
   type: openapi
   system: Veeva
-  partOf:
-    - Veeva
-    - Componanion
