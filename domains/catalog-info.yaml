@@ -1,0 +1,119 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: AstraZeneca
+  description: AstraZeneca Root Organization - Mulesoft Exchange
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?organizationId=364b0ac6-f0f3-4749-ae11-4ffae05be693&show=all&sort=last&view=grid
+      title: Mulesoft
+  tags:
+  - call-to-action
+spec:
+  owner: group:azu-euit/euit_mulesoft_integration_support_team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: Commercial
+  description: Commercial Business Group - Mulesoft Exchange
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?organizationId=3cb27525-985a-44da-a24d-c45b9f6ba84d&show=all&sort=last&view=grid
+      title: Mulesoft
+  tags:
+  - call-to-action
+spec:
+  owner: group:azu-euit/euit_mulesoft_integration_support_team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: Oncology
+  description: Oncology Business Group - Mulesoft Exchange
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?organizationId=42365f1e-4dc6-4705-905c-d95074db1c57&show=all&sort=last&view=grid
+      title: Mulesoft
+  tags:
+  - call-to-action
+spec:
+  owner: group:azu-euit/euit_mulesoft_integration_support_team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: enabling-units
+  title: Enabling Units
+  description: Enabling Units Business Group - Mulesoft Exchange
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?organizationId=69e6d26b-3dbb-4125-b136-7a62dbed0b79&show=all&sort=last&view=grid
+      title: Mulesoft
+  tags:
+  - call-to-action
+spec:
+  owner: group:azu-euit/euit_mulesoft_integration_support_team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: end-users
+  title: End Users
+  description:  End Users Business Group - Mulesoft Exchange
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?organizationId=457a887a-f7f6-451d-906b-d26e7074764b&show=all&sort=last&view=grid
+      title: Mulesoft
+  tags:
+  - call-to-action
+spec:
+  owner: group:azu-euit/euit_mulesoft_integration_support_team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: Enterprise
+  description: Enterprise Business Group - Mulesoft Exchange
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?organizationId=4cea563a-0d88-4089-bf3c-938d16a7df49&show=all&sort=last&view=grid
+      title: Mulesoft
+  tags:
+  - call-to-action
+spec:
+  owner: group:azu-euit/euit_mulesoft_integration_support_team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: iis-gtc
+  title: IIS-GTC
+  description: IIS-GTC Business Group - Mulesoft Exchange
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?organizationId=3188bfd4-ab3f-49ab-823e-cb717e6b7421&show=all&sort=last&view=grid
+      title: Mulesoft
+  tags:
+  - call-to-action
+spec:
+  owner: group:azu-euit/euit_mulesoft_integration_support_team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: Operations
+  description: Operations Business Group - Mulesoft Exchange
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?organizationId=d1ddf93e-6039-487b-a9e8-e57cf39de081&show=all&sort=last&view=grid
+      title: Mulesoft
+  tags:
+  - call-to-action
+spec:
+  owner: group:azu-euit/euit_mulesoft_integration_support_team
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: Science
+  description: Science Business Group - Mulesoft Exchange
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?organizationId=5c247ca9-ca7a-45cf-ab6e-2d82b1d19182&show=all&sort=last&view=grid
+      title: Mulesoft
+  tags:
+  - call-to-action
+spec:
+  owner: group:azu-euit/euit_mulesoft_integration_support_team
