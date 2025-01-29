@@ -15,4 +15,3 @@ spec:
   lifecycle: production
   owner: the-api
   type: openapi
-  system: Veeva
