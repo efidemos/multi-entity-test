@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Companion
+  title: Companion
   links:
     - url: https://anypoint.mulesoft.com/exchange/?category=System%3AWorkday&show=all&sort=last
       title: Mulesoft Exchange
@@ -13,14 +14,14 @@ spec:
   lifecycle: production
   owner: group:azu-ignite/azint-ukapd-sd-alm-az-integration-developers
   system: Companion
-  providesApis:
+  providesApi:
     - api/api-a
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Veeva
-  namespace: mulesoft-exchange
+  title: Veeva
   links:
     - url: https://anypoint.mulesoft.com/exchange/?category=System%3AHR%20ODS&show=all&sort=last
       title: Mulesoft Exchange
@@ -32,5 +33,5 @@ spec:
   lifecycle: production
   owner: group:azu-ignite/azint-ukapd-sd-alm-az-integration-developers
   system: Veeva
-  providesApis:
+  providesApi:
     - api/api-a
