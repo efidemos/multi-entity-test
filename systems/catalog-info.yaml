@@ -1,0 +1,25 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Veeva
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?show=all&sort=last
+      title: Mulesoft
+  tags:
+    - call-to-action
+spec:
+  owner: group:azu-ignite/EUITMulesoftIntegrationSupportTeam
+  domain: mulesoft-exchange/astrazeneca
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Companion
+  links:
+    - url: https://anypoint.mulesoft.com/exchange/?show=all&sort=last
+      title: Mulesoft
+  tags:
+    - call-to-action
+spec:
+  owner: group:azu-ignite/EUITMulesoftIntegrationSupportTeam
+  domain: mulesoft-exchange/astrazeneca
