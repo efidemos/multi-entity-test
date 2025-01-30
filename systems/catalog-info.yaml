@@ -10,8 +10,6 @@ metadata:
 spec:
   owner: group:azu-ignite/EUITMulesoftIntegrationSupportTeam
   domain: AstraZeneca
-  providesApis:
-    - api-a
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
@@ -25,5 +23,3 @@ metadata:
 spec:
   owner: group:azu-ignite/EUITMulesoftIntegrationSupportTeam
   domain: AstraZeneca
-  providesApis:
-    - api-a

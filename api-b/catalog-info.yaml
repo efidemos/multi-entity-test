@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: api-a
-  title: API A
+  name: api-b
+  title: API B
   description: NA
   tags:
     - rest-api
@@ -11,7 +11,7 @@ metadata:
     github.com/project-slug: efidemos/multi-entity-test
 spec:
   definition:
-    $text: https://github.com/efidemos/multi-entity-test/blob/main/api-a/swagger.json
+    $text: https://github.com/efidemos/multi-entity-test/blob/main/api-b/swagger.json
   lifecycle: production
   owner: the-api
   type: openapi
