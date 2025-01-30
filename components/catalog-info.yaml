@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Companion
-  title: Companion
+  title: Companion System
   links:
     - url: https://anypoint.mulesoft.com/exchange/?category=System%3AWorkday&show=all&sort=last
       title: Mulesoft Exchange
@@ -21,7 +21,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Veeva
-  title: Veeva
+  title: Veeva System
   links:
     - url: https://anypoint.mulesoft.com/exchange/?category=System%3AHR%20ODS&show=all&sort=last
       title: Mulesoft Exchange
