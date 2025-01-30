@@ -14,8 +14,6 @@ spec:
   lifecycle: production
   owner: group:azu-ignite/azint-ukapd-sd-alm-az-integration-developers
   system: Companion
-  providesApis:
-    - api-a
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -33,5 +31,3 @@ spec:
   lifecycle: production
   owner: group:azu-ignite/azint-ukapd-sd-alm-az-integration-developers
   system: Veeva
-  providesApis:
-    - api-a
